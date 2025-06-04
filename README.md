@@ -1,4 +1,4 @@
-👋🏼 I'm a M.Sc. Management graduate from the University of Edinburgh, specialising in business analytics, economics, and strategy, complemented by three B.Sc. degrees in Economics, Business Administration, and Information Systems Engineering from the University of Augsburg.
+👋🏼 I'm a M.Sc. Management graduate from the University of Edinburgh, specialising in business analytics, economics, and AI, complemented by three B.Sc. degrees in Economics, Business Administration, and Information Systems Engineering from the University of Augsburg.
 
 🔍 My journey is fueled by a profound curiosity for the intersection of technology and finance, leveraging data and machine learning techniques to solve complex business and economic problems. My focus lies in monetary economics, financial markets, and AI applications in finance and operations.
 
