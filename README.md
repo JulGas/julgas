@@ -1,4 +1,9 @@
-## Hi there 👋
+👋🏼 I'm a M.Sc. Management graduate from the University of Edinburgh, specialising in business analytics, economics, and strategy, complemented by three B.Sc. degrees in Economics, Business Administration, and Information Systems Engineering from the University of Augsburg.
+
+🔍 My journey is fueled by a profound curiosity for the intersection of technology and finance, leveraging data and machine learning techniques to solve complex business and economic problems. My focus lies in monetary economics, financial markets, and AI applications in finance and operations.
+
+🚀 As Co-Founder and Ex-Vice-President of the Accessible AI Society at the University of Edinburgh, I'm dedicated to leveraging AI for societal influence and promoting accessibility in AI technologies. Through workshops, seminars, and collaborative projects, our society strives to make AI more inclusive for everyone.
+
 
 <!--
 **JulGas/julgas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
